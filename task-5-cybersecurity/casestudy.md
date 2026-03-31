@@ -1,0 +1,7 @@
+🎣 Phishing is a cybercrime in which attackers impersonate trusted entities 🏦🏫 to trick individuals into revealing sensitive information such as passwords 🔑, OTPs 📲, or banking details 💳. A common scenario involves college students 🎓, who are often targeted due to their frequent use of email 📧, online payments 💸, and limited cybersecurity awareness 🧠.
+
+In a typical case, a student receives an email 📩 that appears to be from their university 🏫 or a popular service (like a bank or internship portal 💼). The message may claim urgent action is required ⚠️—such as verifying an account, updating KYC details, or claiming a scholarship 🎓. Step-by-step, the attack unfolds as follows: (1) the attacker sends a convincing email or message 📧, (2) the student clicks on a fake link 🔗, (3) they are redirected to a lookalike website 🌐, (4) they enter login credentials or financial details 🔑💳, and (5) the attacker captures this data and uses it for unauthorized access or transactions 💻💸.
+
+Students and young adults 🎯 are usually targeted because they frequently use digital platforms 📱 and may act quickly under pressure ⏳. The consequences can be serious ⚠️, including financial loss 💸, identity theft 🆔, hacked social media accounts 🔓, and emotional stress 😟. In some cases, attackers may even misuse stolen accounts 🔁 to target others.
+
+This case highlights the importance of verifying sources ✔️, avoiding suspicious links 🚫, and staying cautious while handling sensitive information online 🔐.
