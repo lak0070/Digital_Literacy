@@ -1,1 +1,1 @@
-
+I completed a beginner-level coding challenge on HackerRank to improve my programming skills and understanding of basic concepts. This helped me practice problem-solving and logical thinking. I also created a Google Form with five questions for a Digital Literacy Awareness Quiz and reviewed responses using Google Sheets. These activities enhanced my technical and collaboration skills, which will be useful for academic projects, assignments, and future learning in programming and data analysis.
