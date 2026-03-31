@@ -47,7 +47,8 @@ Digital_Literacy/
 │   ├── casestudy.md
 │   └── prevention-checklist.md
 │
-└── README.md
+├──  README.md
+└── Project_Report.pdf
 ```
 
 ---
